@@ -1,0 +1,588 @@
+[submodule "airbnb/trebuchet"]
+	path = airbnb/trebuchet
+	url = https://github.com/airbnb/trebuchet.git
+[submodule "airbnb/erubis"]
+	path = airbnb/erubis
+	url = https://github.com/airbnb/erubis.git
+[submodule "airbnb/zonify"]
+	path = airbnb/zonify
+	url = https://github.com/airbnb/zonify.git
+[submodule "airbnb/statsd-ruby"]
+	path = airbnb/statsd-ruby
+	url = https://github.com/airbnb/statsd-ruby.git
+[submodule "airbnb/backpack"]
+	path = airbnb/backpack
+	url = https://github.com/airbnb/backpack.git
+[submodule "airbnb/sssp"]
+	path = airbnb/sssp
+	url = https://github.com/airbnb/sssp.git
+[submodule "airbnb/cloud-maker"]
+	path = airbnb/cloud-maker
+	url = https://github.com/airbnb/cloud-maker.git
+[submodule "airbnb/tapkulibrary"]
+	path = airbnb/tapkulibrary
+	url = https://github.com/airbnb/tapkulibrary.git
+[submodule "airbnb/infinity"]
+	path = airbnb/infinity
+	url = https://github.com/airbnb/infinity.git
+[submodule "airbnb/android-mapviewballoons"]
+	path = airbnb/android-mapviewballoons
+	url = https://github.com/airbnb/android-mapviewballoons.git
+[submodule "airbnb/cryo"]
+	path = airbnb/cryo
+	url = https://github.com/airbnb/cryo.git
+[submodule "airbnb/wraithdb"]
+	path = airbnb/wraithdb
+	url = https://github.com/airbnb/wraithdb.git
+[submodule "airbnb/polyglot.js"]
+	path = airbnb/polyglot.js
+	url = https://github.com/airbnb/polyglot.js.git
+[submodule "airbnb/backbone.baseview"]
+	path = airbnb/backbone.baseview
+	url = https://github.com/airbnb/backbone.baseview.git
+[submodule "airbnb/javascript"]
+	path = airbnb/javascript
+	url = https://github.com/airbnb/javascript.git
+[submodule "airbnb/synapse"]
+	path = airbnb/synapse
+	url = https://github.com/airbnb/synapse.git
+[submodule "airbnb/mixpanel-iphone"]
+	path = airbnb/mixpanel-iphone
+	url = https://github.com/airbnb/mixpanel-iphone.git
+[submodule "airbnb/nerve"]
+	path = airbnb/nerve
+	url = https://github.com/airbnb/nerve.git
+[submodule "airbnb/ruby"]
+	path = airbnb/ruby
+	url = https://github.com/airbnb/ruby.git
+[submodule "airbnb/stemcell"]
+	path = airbnb/stemcell
+	url = https://github.com/airbnb/stemcell.git
+[submodule "airbnb/optica"]
+	path = airbnb/optica
+	url = https://github.com/airbnb/optica.git
+[submodule "airbnb/twitter-commons-sample"]
+	path = airbnb/twitter-commons-sample
+	url = https://github.com/airbnb/twitter-commons-sample.git
+[submodule "airbnb/marginalia"]
+	path = airbnb/marginalia
+	url = https://github.com/airbnb/marginalia.git
+[submodule "airbnb/gem-aws-creds"]
+	path = airbnb/gem-aws-creds
+	url = https://github.com/airbnb/gem-aws-creds.git
+[submodule "airbnb/elephant-bird"]
+	path = airbnb/elephant-bird
+	url = https://github.com/airbnb/elephant-bird.git
+[submodule "airbnb/gem-aws-instmd"]
+	path = airbnb/gem-aws-instmd
+	url = https://github.com/airbnb/gem-aws-instmd.git
+[submodule "airbnb/chancery"]
+	path = airbnb/chancery
+	url = https://github.com/airbnb/chancery.git
+[submodule "airbnb/squash-java"]
+	path = airbnb/squash-java
+	url = https://github.com/airbnb/squash-java.git
+[submodule "airbnb/billow"]
+	path = airbnb/billow
+	url = https://github.com/airbnb/billow.git
+[submodule "airbnb/newrelic_aws_cloudwatch_plugin"]
+	path = airbnb/newrelic_aws_cloudwatch_plugin
+	url = https://github.com/airbnb/newrelic_aws_cloudwatch_plugin.git
+[submodule "airbnb/newrelic_plugin"]
+	path = airbnb/newrelic_plugin
+	url = https://github.com/airbnb/newrelic_plugin.git
+[submodule "airbnb/docker-client"]
+	path = airbnb/docker-client
+	url = https://github.com/airbnb/docker-client.git
+[submodule "airbnb/docker-registry"]
+	path = airbnb/docker-registry
+	url = https://github.com/airbnb/docker-registry.git
+[submodule "airbnb/requirejs-rails"]
+	path = airbnb/requirejs-rails
+	url = https://github.com/airbnb/requirejs-rails.git
+[submodule "airbnb/hammerspace"]
+	path = airbnb/hammerspace
+	url = https://github.com/airbnb/hammerspace.git
+[submodule "airbnb/smartstack-cookbook"]
+	path = airbnb/smartstack-cookbook
+	url = https://github.com/airbnb/smartstack-cookbook.git
+[submodule "airbnb/camus"]
+	path = airbnb/camus
+	url = https://github.com/airbnb/camus.git
+[submodule "airbnb/marathon"]
+	path = airbnb/marathon
+	url = https://github.com/airbnb/marathon.git
+[submodule "airbnb/storm-kafka-0.8-plus"]
+	path = airbnb/storm-kafka-0.8-plus
+	url = https://github.com/airbnb/storm-kafka-0.8-plus.git
+[submodule "airbnb/storm"]
+	path = airbnb/storm
+	url = https://github.com/airbnb/storm.git
+[submodule "airbnb/storm-mesos"]
+	path = airbnb/storm-mesos
+	url = https://github.com/airbnb/storm-mesos.git
+[submodule "airbnb/homebrew"]
+	path = airbnb/homebrew
+	url = https://github.com/airbnb/homebrew.git
+[submodule "airbnb/hadoop"]
+	path = airbnb/hadoop
+	url = https://github.com/airbnb/hadoop.git
+[submodule "airbnb/plog"]
+	path = airbnb/plog
+	url = https://github.com/airbnb/plog.git
+[submodule "airbnb/plog-ruby"]
+	path = airbnb/plog-ruby
+	url = https://github.com/airbnb/plog-ruby.git
+[submodule "airbnb/brakeman"]
+	path = airbnb/brakeman
+	url = https://github.com/airbnb/brakeman.git
+[submodule "airbnb/zendesk-api"]
+	path = airbnb/zendesk-api
+	url = https://github.com/airbnb/zendesk-api.git
+[submodule "airbnb/zendesk_api_client_rb"]
+	path = airbnb/zendesk_api_client_rb
+	url = https://github.com/airbnb/zendesk_api_client_rb.git
+[submodule "airbnb/collapstring"]
+	path = airbnb/collapstring
+	url = https://github.com/airbnb/collapstring.git
+[submodule "airbnb/airpal"]
+	path = airbnb/airpal
+	url = https://github.com/airbnb/airpal.git
+[submodule "airbnb/wechat-rails"]
+	path = airbnb/wechat-rails
+	url = https://github.com/airbnb/wechat-rails.git
+[submodule "airbnb/kafka-statsd-metrics2"]
+	path = airbnb/kafka-statsd-metrics2
+	url = https://github.com/airbnb/kafka-statsd-metrics2.git
+[submodule "airbnb/kafkat"]
+	path = airbnb/kafkat
+	url = https://github.com/airbnb/kafkat.git
+[submodule "airbnb/jmxtrans"]
+	path = airbnb/jmxtrans
+	url = https://github.com/airbnb/jmxtrans.git
+[submodule "airbnb/brace"]
+	path = airbnb/brace
+	url = https://github.com/airbnb/brace.git
+[submodule "airbnb/Backbone-relational"]
+	path = airbnb/Backbone-relational
+	url = https://github.com/airbnb/Backbone-relational.git
+[submodule "airbnb/AirMapView"]
+	path = airbnb/AirMapView
+	url = https://github.com/airbnb/AirMapView.git
+[submodule "airbnb/lottie-web"]
+	path = airbnb/lottie-web
+	url = https://github.com/airbnb/lottie-web.git
+[submodule "airbnb/m2repository"]
+	path = airbnb/m2repository
+	url = https://github.com/airbnb/m2repository.git
+[submodule "airbnb/aws-cli"]
+	path = airbnb/aws-cli
+	url = https://github.com/airbnb/aws-cli.git
+[submodule "airbnb/interferon"]
+	path = airbnb/interferon
+	url = https://github.com/airbnb/interferon.git
+[submodule "airbnb/retrofit"]
+	path = airbnb/retrofit
+	url = https://github.com/airbnb/retrofit.git
+[submodule "airbnb/aerosolve"]
+	path = airbnb/aerosolve
+	url = https://github.com/airbnb/aerosolve.git
+[submodule "airbnb/security_monkey"]
+	path = airbnb/security_monkey
+	url = https://github.com/airbnb/security_monkey.git
+[submodule "airbnb/DeepLinkDispatch"]
+	path = airbnb/DeepLinkDispatch
+	url = https://github.com/airbnb/DeepLinkDispatch.git
+[submodule "airbnb/glide"]
+	path = airbnb/glide
+	url = https://github.com/airbnb/glide.git
+[submodule "airbnb/java-code-styles"]
+	path = airbnb/java-code-styles
+	url = https://github.com/airbnb/java-code-styles.git
+[submodule "airbnb/css"]
+	path = airbnb/css
+	url = https://github.com/airbnb/css.git
+[submodule "airbnb/node-spotify-web"]
+	path = airbnb/node-spotify-web
+	url = https://github.com/airbnb/node-spotify-web.git
+[submodule "airbnb/rspec-gc-control"]
+	path = airbnb/rspec-gc-control
+	url = https://github.com/airbnb/rspec-gc-control.git
+[submodule "airbnb/audited"]
+	path = airbnb/audited
+	url = https://github.com/airbnb/audited.git
+[submodule "airbnb/okhttp"]
+	path = airbnb/okhttp
+	url = https://github.com/airbnb/okhttp.git
+[submodule "airbnb/s3cmd"]
+	path = airbnb/s3cmd
+	url = https://github.com/airbnb/s3cmd.git
+[submodule "airbnb/poseidon_cluster"]
+	path = airbnb/poseidon_cluster
+	url = https://github.com/airbnb/poseidon_cluster.git
+[submodule "airbnb/poseidon"]
+	path = airbnb/poseidon
+	url = https://github.com/airbnb/poseidon.git
+[submodule "airbnb/sticky-headers-recyclerview"]
+	path = airbnb/sticky-headers-recyclerview
+	url = https://github.com/airbnb/sticky-headers-recyclerview.git
+[submodule "airbnb/faker"]
+	path = airbnb/faker
+	url = https://github.com/airbnb/faker.git
+[submodule "airbnb/babel-preset-airbnb"]
+	path = airbnb/babel-preset-airbnb
+	url = https://github.com/airbnb/babel-preset-airbnb.git
+[submodule "airbnb/RxGroups"]
+	path = airbnb/RxGroups
+	url = https://github.com/airbnb/RxGroups.git
+[submodule "airbnb/rheostat"]
+	path = airbnb/rheostat
+	url = https://github.com/airbnb/rheostat.git
+[submodule "airbnb/reactivex.github.io"]
+	path = airbnb/reactivex.github.io
+	url = https://github.com/airbnb/reactivex.github.io.git
+[submodule "airbnb/apple-tv-auth"]
+	path = airbnb/apple-tv-auth
+	url = https://github.com/airbnb/apple-tv-auth.git
+[submodule "airbnb/honeypot"]
+	path = airbnb/honeypot
+	url = https://github.com/airbnb/honeypot.git
+[submodule "airbnb/python-slackclient"]
+	path = airbnb/python-slackclient
+	url = https://github.com/airbnb/python-slackclient.git
+[submodule "airbnb/mocha-wrap"]
+	path = airbnb/mocha-wrap
+	url = https://github.com/airbnb/mocha-wrap.git
+[submodule "airbnb/reair"]
+	path = airbnb/reair
+	url = https://github.com/airbnb/reair.git
+[submodule "airbnb/js-shims"]
+	path = airbnb/js-shims
+	url = https://github.com/airbnb/js-shims.git
+[submodule "airbnb/react-native-push-notification"]
+	path = airbnb/react-native-push-notification
+	url = https://github.com/airbnb/react-native-push-notification.git
+[submodule "airbnb/hypernova"]
+	path = airbnb/hypernova
+	url = https://github.com/airbnb/hypernova.git
+[submodule "airbnb/hypernova-ruby"]
+	path = airbnb/hypernova-ruby
+	url = https://github.com/airbnb/hypernova-ruby.git
+[submodule "airbnb/hypernova-node"]
+	path = airbnb/hypernova-node
+	url = https://github.com/airbnb/hypernova-node.git
+[submodule "airbnb/hypernova-react"]
+	path = airbnb/hypernova-react
+	url = https://github.com/airbnb/hypernova-react.git
+[submodule "airbnb/hypernova-aphrodite"]
+	path = airbnb/hypernova-aphrodite
+	url = https://github.com/airbnb/hypernova-aphrodite.git
+[submodule "airbnb/dd-agent"]
+	path = airbnb/dd-agent
+	url = https://github.com/airbnb/dd-agent.git
+[submodule "airbnb/swift"]
+	path = airbnb/swift
+	url = https://github.com/airbnb/swift.git
+[submodule "airbnb/appear"]
+	path = airbnb/appear
+	url = https://github.com/airbnb/appear.git
+[submodule "airbnb/epoxy"]
+	path = airbnb/epoxy
+	url = https://github.com/airbnb/epoxy.git
+[submodule "airbnb/kafka"]
+	path = airbnb/kafka
+	url = https://github.com/airbnb/kafka.git
+[submodule "airbnb/browser-shims"]
+	path = airbnb/browser-shims
+	url = https://github.com/airbnb/browser-shims.git
+[submodule "airbnb/knowledge-repo"]
+	path = airbnb/knowledge-repo
+	url = https://github.com/airbnb/knowledge-repo.git
+[submodule "cncf/toc"]
+	path = cncf/toc
+	url = https://github.com/cncf/toc.git
+[submodule "cncf/artwork"]
+	path = cncf/artwork
+	url = https://github.com/cncf/artwork.git
+[submodule "cncf/cluster"]
+	path = cncf/cluster
+	url = https://github.com/cncf/cluster.git
+[submodule "cncf/presentations"]
+	path = cncf/presentations
+	url = https://github.com/cncf/presentations.git
+[submodule "cncf/demo"]
+	path = cncf/demo
+	url = https://github.com/cncf/demo.git
+[submodule "cncf/cla"]
+	path = cncf/cla
+	url = https://github.com/cncf/cla.git
+[submodule "cncf/ambassadors"]
+	path = cncf/ambassadors
+	url = https://github.com/cncf/ambassadors.git
+[submodule "cncf/foundation"]
+	path = cncf/foundation
+	url = https://github.com/cncf/foundation.git
+[submodule "cncf/landscape"]
+	path = cncf/landscape
+	url = https://github.com/cncf/landscape.git
+[submodule "cncf/mentoring"]
+	path = cncf/mentoring
+	url = https://github.com/cncf/mentoring.git
+[submodule "cncf/wg-ci"]
+	path = cncf/wg-ci
+	url = https://github.com/cncf/wg-ci.git
+[submodule "cncf/tag-storage"]
+	path = cncf/tag-storage
+	url = https://github.com/cncf/tag-storage.git
+[submodule "cncf/wg-networking"]
+	path = cncf/wg-networking
+	url = https://github.com/cncf/wg-networking.git
+[submodule "cncf/curriculum"]
+	path = cncf/curriculum
+	url = https://github.com/cncf/curriculum.git
+[submodule "cncf/velocity"]
+	path = cncf/velocity
+	url = https://github.com/cncf/velocity.git
+[submodule "cncf/wg-serverless"]
+	path = cncf/wg-serverless
+	url = https://github.com/cncf/wg-serverless.git
+[submodule "cncf/images"]
+	path = cncf/images
+	url = https://github.com/cncf/images.git
+[submodule "cncf/servicedesk"]
+	path = cncf/servicedesk
+	url = https://github.com/cncf/servicedesk.git
+[submodule "cncf/k8s-conformance"]
+	path = cncf/k8s-conformance
+	url = https://github.com/cncf/k8s-conformance.git
+[submodule "cncf/awards"]
+	path = cncf/awards
+	url = https://github.com/cncf/awards.git
+[submodule "cncf/obsolete-interactive-landscape"]
+	path = cncf/obsolete-interactive-landscape
+	url = https://github.com/cncf/obsolete-interactive-landscape.git
+[submodule "cncf/dev-affiliations"]
+	path = cncf/dev-affiliations
+	url = https://github.com/cncf/dev-affiliations.git
+[submodule "cncf/contribute"]
+	path = cncf/contribute
+	url = https://github.com/cncf/contribute.git
+[submodule "cncf/filterable-landscape"]
+	path = cncf/filterable-landscape
+	url = https://github.com/cncf/filterable-landscape.git
+[submodule "cncf/communitygroups"]
+	path = cncf/communitygroups
+	url = https://github.com/cncf/communitygroups.git
+[submodule "cncf/serverless-landscape"]
+	path = cncf/serverless-landscape
+	url = https://github.com/cncf/serverless-landscape.git
+[submodule "cncf/tag-security"]
+	path = cncf/tag-security
+	url = https://github.com/cncf/tag-security.git
+[submodule "cncf/hnanalysis"]
+	path = cncf/hnanalysis
+	url = https://github.com/cncf/hnanalysis.git
+[submodule "cncf/cnf-testbed"]
+	path = cncf/cnf-testbed
+	url = https://github.com/cncf/cnf-testbed.git
+[submodule "cncf/apisnoop"]
+	path = cncf/apisnoop
+	url = https://github.com/cncf/apisnoop.git
+[submodule "cncf/svg-autocrop"]
+	path = cncf/svg-autocrop
+	url = https://github.com/cncf/svg-autocrop.git
+[submodule "cncf/onap-demo"]
+	path = cncf/onap-demo
+	url = https://github.com/cncf/onap-demo.git
+[submodule "cncf/devstats-website"]
+	path = cncf/devstats-website
+	url = https://github.com/cncf/devstats-website.git
+[submodule "cncf/devstats-example"]
+	path = cncf/devstats-example
+	url = https://github.com/cncf/devstats-example.git
+[submodule "cncf/trailmap"]
+	path = cncf/trailmap
+	url = https://github.com/cncf/trailmap.git
+[submodule "cncf/landscape-archive"]
+	path = cncf/landscape-archive
+	url = https://github.com/cncf/landscape-archive.git
+[submodule "cncf/landscapeapp"]
+	path = cncf/landscapeapp
+	url = https://github.com/cncf/landscapeapp.git
+[submodule "cncf/enduser-public"]
+	path = cncf/enduser-public
+	url = https://github.com/cncf/enduser-public.git
+[submodule "cncf/site-boilerplate"]
+	path = cncf/site-boilerplate
+	url = https://github.com/cncf/site-boilerplate.git
+[submodule "cncf/devstatscode"]
+	path = cncf/devstatscode
+	url = https://github.com/cncf/devstatscode.git
+[submodule "cncf/svg-website"]
+	path = cncf/svg-website
+	url = https://github.com/cncf/svg-website.git
+[submodule "cncf/devstats-helm-lf"]
+	path = cncf/devstats-helm-lf
+	url = https://github.com/cncf/devstats-helm-lf.git
+[submodule "cncf/devstats-docker-lf"]
+	path = cncf/devstats-docker-lf
+	url = https://github.com/cncf/devstats-docker-lf.git
+[submodule "cncf/devstats-docker-images"]
+	path = cncf/devstats-docker-images
+	url = https://github.com/cncf/devstats-docker-images.git
+[submodule "cncf/devstats-k8s-lf"]
+	path = cncf/devstats-k8s-lf
+	url = https://github.com/cncf/devstats-k8s-lf.git
+[submodule "cncf/cloud-native-days"]
+	path = cncf/cloud-native-days
+	url = https://github.com/cncf/cloud-native-days.git
+[submodule "cncf/devstats-helm-example"]
+	path = cncf/devstats-helm-example
+	url = https://github.com/cncf/devstats-helm-example.git
+[submodule "cncf/devstats-reports"]
+	path = cncf/devstats-reports
+	url = https://github.com/cncf/devstats-reports.git
+[submodule "cncf/cncf-branding"]
+	path = cncf/cncf-branding
+	url = https://github.com/cncf/cncf-branding.git
+[submodule "cncf/financial-user-group"]
+	path = cncf/financial-user-group
+	url = https://github.com/cncf/financial-user-group.git
+[submodule "cncf/china-video-block"]
+	path = cncf/china-video-block
+	url = https://github.com/cncf/china-video-block.git
+[submodule "cncf/devstats-helm-graphql"]
+	path = cncf/devstats-helm-graphql
+	url = https://github.com/cncf/devstats-helm-graphql.git
+[submodule "cncf/devstats-kubernetes-dashboard"]
+	path = cncf/devstats-kubernetes-dashboard
+	url = https://github.com/cncf/devstats-kubernetes-dashboard.git
+[submodule "cncf/telecom-user-group"]
+	path = cncf/telecom-user-group
+	url = https://github.com/cncf/telecom-user-group.git
+[submodule "cncf/udpa"]
+	path = cncf/udpa
+	url = https://github.com/cncf/udpa.git
+[submodule "cncf/kubernetes-community-days"]
+	path = cncf/kubernetes-community-days
+	url = https://github.com/cncf/kubernetes-community-days.git
+[submodule "cncf/devstats-helm"]
+	path = cncf/devstats-helm
+	url = https://github.com/cncf/devstats-helm.git
+[submodule "cncf/clone-page-tree"]
+	path = cncf/clone-page-tree
+	url = https://github.com/cncf/clone-page-tree.git
+[submodule "cncf/tag-app-delivery"]
+	path = cncf/tag-app-delivery
+	url = https://github.com/cncf/tag-app-delivery.git
+[submodule "cncf/contributors-world-map"]
+	path = cncf/contributors-world-map
+	url = https://github.com/cncf/contributors-world-map.git
+[submodule "cncf/merge-sh-dbs"]
+	path = cncf/merge-sh-dbs
+	url = https://github.com/cncf/merge-sh-dbs.git
+[submodule "cncf/apisnoopregexp"]
+	path = cncf/apisnoopregexp
+	url = https://github.com/cncf/apisnoopregexp.git
+[submodule "cncf/da-patroni"]
+	path = cncf/da-patroni
+	url = https://github.com/cncf/da-patroni.git
+[submodule "cncf/y2c"]
+	path = cncf/y2c
+	url = https://github.com/cncf/y2c.git
+[submodule "cncf/wordpress-site"]
+	path = cncf/wordpress-site
+	url = https://github.com/cncf/wordpress-site.git
+[submodule "cncf/sig-security-events"]
+	path = cncf/sig-security-events
+	url = https://github.com/cncf/sig-security-events.git
+[submodule "cncf/foundation-starter-kit"]
+	path = cncf/foundation-starter-kit
+	url = https://github.com/cncf/foundation-starter-kit.git
+[submodule "cncf/research-user-group"]
+	path = cncf/research-user-group
+	url = https://github.com/cncf/research-user-group.git
+[submodule "cncf/surveys"]
+	path = cncf/surveys
+	url = https://github.com/cncf/surveys.git
+[submodule "cncf/jp-translations"]
+	path = cncf/jp-translations
+	url = https://github.com/cncf/jp-translations.git
+[submodule "cncf/sfdc"]
+	path = cncf/sfdc
+	url = https://github.com/cncf/sfdc.git
+[submodule "cncf/tag-network"]
+	path = cncf/tag-network
+	url = https://github.com/cncf/tag-network.git
+[submodule "cncf/tag-runtime"]
+	path = cncf/tag-runtime
+	url = https://github.com/cncf/tag-runtime.git
+[submodule "cncf/hnscraping"]
+	path = cncf/hnscraping
+	url = https://github.com/cncf/hnscraping.git
+[submodule "cncf/memorials"]
+	path = cncf/memorials
+	url = https://github.com/cncf/memorials.git
+[submodule "cncf/cncf.io"]
+	path = cncf/cncf.io
+	url = https://github.com/cncf/cncf.io.git
+[submodule "cncf/hugo-netlify-starter"]
+	path = cncf/hugo-netlify-starter
+	url = https://github.com/cncf/hugo-netlify-starter.git
+[submodule "cncf/svg-autocrop-serverless"]
+	path = cncf/svg-autocrop-serverless
+	url = https://github.com/cncf/svg-autocrop-serverless.git
+[submodule "cncf/cnf-testsuite"]
+	path = cncf/cnf-testsuite
+	url = https://github.com/cncf/cnf-testsuite.git
+[submodule "cncf/wp-svg-autocrop"]
+	path = cncf/wp-svg-autocrop
+	url = https://github.com/cncf/wp-svg-autocrop.git
+[submodule "cncf/tag-contributor-strategy"]
+	path = cncf/tag-contributor-strategy
+	url = https://github.com/cncf/tag-contributor-strategy.git
+[submodule "cncf/tag-observability"]
+	path = cncf/tag-observability
+	url = https://github.com/cncf/tag-observability.git
+[submodule "cncf/parallel-netlify-builds"]
+	path = cncf/parallel-netlify-builds
+	url = https://github.com/cncf/parallel-netlify-builds.git
+[submodule "cncf/count_kw"]
+	path = cncf/count_kw
+	url = https://github.com/cncf/count_kw.git
+[submodule "cncf/wp-mu-plugins"]
+	path = cncf/wp-mu-plugins
+	url = https://github.com/cncf/wp-mu-plugins.git
+[submodule "cncf/.github"]
+	path = cncf/.github
+	url = https://github.com/cncf/.github.git
+[submodule "cncf/radar"]
+	path = cncf/radar
+	url = https://github.com/cncf/radar.git
+[submodule "cncf/project-template"]
+	path = cncf/project-template
+	url = https://github.com/cncf/project-template.git
+[submodule "cncf/techdocs"]
+	path = cncf/techdocs
+	url = https://github.com/cncf/techdocs.git
+[submodule "cncf/business-value"]
+	path = cncf/business-value
+	url = https://github.com/cncf/business-value.git
+[submodule "cncf/cnf-wg"]
+	path = cncf/cnf-wg
+	url = https://github.com/cncf/cnf-wg.git
+[submodule "cncf/xds"]
+	path = cncf/xds
+	url = https://github.com/cncf/xds.git
+[submodule "cncf/glossary"]
+	path = cncf/glossary
+	url = https://github.com/cncf/glossary.git
+[submodule "cncf/next.js"]
+	path = cncf/next.js
+	url = https://github.com/cncf/next.js.git
+[submodule "cncf/website"]
+	path = cncf/website
+	url = https://github.com/cncf/website.git
+[submodule "cncf/cartografos"]
+	path = cncf/cartografos
+	url = https://github.com/cncf/cartografos.git
