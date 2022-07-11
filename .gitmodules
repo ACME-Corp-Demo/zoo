@@ -382,9 +382,6 @@
 [submodule "cncf/hnanalysis"]
 	path = cncf/hnanalysis
 	url = https://github.com/cncf/hnanalysis.git
-[submodule "cncf/cnf-testbed"]
-	path = cncf/cnf-testbed
-	url = https://github.com/cncf/cnf-testbed.git
 [submodule "cncf/apisnoop"]
 	path = cncf/apisnoop
 	url = https://github.com/cncf/apisnoop.git
